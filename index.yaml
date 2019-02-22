@@ -4,4 +4,5 @@ mixin:
   - build-type.mixin
   - ccache.mixin
   - coverage.mixin
+  - tsan.mixin
   - test-linters.mixin
